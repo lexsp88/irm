@@ -3,7 +3,7 @@
 class ControladorCategorias{
 
 	/*=============================================
-	CREAR CATEGORIAS
+	CREAR CATEGORIAS    modificacion en lap top oficina
 	=============================================*/
 
 	static public function ctrCrearCategoria(){
