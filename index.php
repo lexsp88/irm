@@ -18,3 +18,4 @@ require_once "modelos/obras.modelo.php";
 
 $plantilla = new ControladorPlantilla();
 $plantilla -> ctrPlantilla();
+///modificacion en personal
